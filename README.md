@@ -1,12 +1,12 @@
 # wifi-deauthing-and-deauthenticating
 WiFi Deauthing and Deauthenticating
 
-██╗     ██╗   ██╗██╗  ██╗  
-██║     ██║   ██║╚██╗██╔╝  
-██║     ██║   ██║ ╚███╔╝  
-██║     ██║   ██║ ██╔██╗  
-███████╗╚██████╔╝██╔╝ ██╗  
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝  
+██╗     ██╗   ██╗██╗  ██╗<br>
+██║     ██║   ██║╚██╗██╔╝<br>
+██║     ██║   ██║ ╚███╔╝<br>
+██║     ██║   ██║ ██╔██╗<br>
+███████╗╚██████╔╝██╔╝ ██╗<br>
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝<br>
 
 ## For Educational purposes only
 
@@ -34,11 +34,10 @@ A sample of attacking input:
      cd wifi-deauthing-and-deauthenticating-attack
      sudo python3 <filename>
      '''
-<p>
-## Note:
-  Use attack.py to attack multiple networks.
-  Use singleattack.py to attack a single network.
+
+## Note:<br>
+  Use attack.py to attack multiple networks.<br>
+  Use singleattack.py to attack a single network.<br>
   Of course you can attack a single network with attack.py but it might be in efficient.
-</p>
    
   
