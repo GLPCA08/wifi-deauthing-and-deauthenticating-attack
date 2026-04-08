@@ -24,7 +24,7 @@ A sample of attacking input:
   2. Download the files:
      Open terminal in a folder:<br>
      Use git to download the repo<br>
-     'git clone https://github.com/GLPCA08/wifi-deauthing-and-deauthenticating-attack.git'
+     'git clone https://github.com/GLPCA08/multiple-wifi-deauthenticating-attack.git'
   3. Install the tools:
 >      sudo apt update
 >      so apt upgrade
